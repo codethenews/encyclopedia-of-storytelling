@@ -529,7 +529,7 @@ The element of surprise: the curtain going up. The camera comes around a corner.
 [visual vocabulary]
 Without scale, you don't know where you are. You can't have the zoom-in.
 This is so important when it comes to photography and cropping. It's not just about absolute size, but the size relative to how much space there is in the room of the viewer's mind. Can you feel big in a desert?
-
+- Example: Note in [this New York Times Magazine cover](https://newspagedesigner.org/blogs/the-value-of-great-photo-editing-and-the-strength-of-tiny-type) how the use of cropping creates a sense of scale that aligns with the content of the story - emphasizing the grandeur of this dying rhinoceros and the small text evoking powerlessness in face of its tragic, yet imminent extinction.
 
 
 ## scrolling
