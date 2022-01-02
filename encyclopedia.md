@@ -531,6 +531,7 @@ Without scale, you don't know where you are. You can't have the zoom-in.
 This is so important when it comes to photography and cropping. It's not just about absolute size, but the size relative to how much space there is in the room of the viewer's mind. Can you feel big in a desert?
 
 
+
 ## scrolling
 [web / interactivity]
 Scrolling is how we are used to navigating websites, on screens large and small. Scrolling vertically down a page is generally understood to be the default. It can be exchanged for, or combined with horizontal scrolling**,** to defy the user's [expectations]. * For example: conveying a sense of parallel or concurrent actions or paths.
@@ -559,15 +560,16 @@ Even though this may sort of drop the bottom out from a story that reader was en
 
 ## timeline
 [presentation / layout]
-
+### Tools
+- [ProPublica's Timeline Setter](https://github.com/propublica/timeline-setter) creates an HTML timeline out of 
 
 ## variable
-The term “variable” is liable to… _vary_ between different fields:**visual variable** (data visualization) `<p style="text-align: right">`
-Diagram by [Data4Change](https://sites.google.com/data4chan.ge/databasics-create/04)
+The term “variable” is liable to… _vary_ between different fields:**visual variable** (data visualization)
+
+    _Diagram by [Data4Change](https://sites.google.com/data4chan.ge/databasics-create/04)
 
 
-##variable (programming)
-
+## variable (programming)
 
 ## video
 A sequence of images played really fast in a certain order that mimics what we see to give the illusion that the things depicted are moving.
