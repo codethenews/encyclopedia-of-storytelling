@@ -207,8 +207,13 @@ see also: [perspective]
 
 
 ## fixed position
+<!-- ¿See also [position:fixed]  -->
 When an object on a web document is "fixed" to the [viewport]
 Not to be confused with [sticky] - where an object is fixed for a certain period while [scrolling]
+<!-- >
+How to combine entries for [fixed position] and [sticky position] ??? 
+  Maybe use a single [position] entry? Or put them under scrolling? // Also keep these entires as reference links?
+-->
 
 
 ## frame scrubbing
@@ -534,9 +539,14 @@ This is so important when it comes to photography and cropping. It's not just ab
 
 ## scrolling
 [web / interactivity]
-Scrolling is how we are used to navigating websites, on screens large and small. Scrolling vertically down a page is generally understood to be the default. It can be exchanged for, or combined with horizontal scrolling**,** to defy the user's [expectations]. * For example: conveying a sense of parallel or concurrent actions or paths.
+Scrolling is how we are used to navigating websites, on screens large and small. 
+* For example: conveying a sense of parallel or concurrent actions or paths.
+### horizontal scrolling 
+Yes, we're used to web pages scrolling top to bottom. Scrolling vertically down a page is generally understood to be the default. However, it can be exchanged for a horizontal scroll, to defy the user's [expectations]. 
 * [Horizontal Scrolling in Web Design: How to Do It Well](https://blog.hubspot.com/website/horizontal-scrolling)_See also: motion_
-
+### scroll snapping
+This can be used to more neatly guide the experience onto certain points, giving the feeling of "slides."
+http://interactive.sun-sentinel.com/voices-of-change/
 
 ## scrollytelling
 Examples
@@ -552,11 +562,18 @@ Even though this may sort of drop the bottom out from a story that reader was en
 
 
 ## statistics
+~Numbers and stuff...
 ### Resources
 * [Math basics for journalists: Working with averages and percentages](https://journalistsresource.org/home/math-for-journalists/)
 * [Statistical terms used in research studies: A primer for media](https://journalistsresource.org/home/statistics-for-journalists/)
 * [Addressing journalistic innumeracy and math phobia: A sequence of resources to sharpen your mind](https://journalistsresource.org/media/journalistic-innumeracy-math-phobia-sequence-resources-to-sharpen-your-mind/)
 
+
+## sticky (position)
+A useful CSS property that makes things stick in place in the browser, enabling lots of story possibilities.
+- This [photo essay](https://www.nationalgeographic.com/culture/graphics/women-war-conflict-nigeria-peru-iraq-philippines-international-day-of-girl) is driven by its portraits, 
+
+- 
 
 ## timeline
 [presentation / layout]
@@ -597,4 +614,25 @@ A technique for automatically extracting information from a website.
 
 ## word cloud
 A bit cheesy, but if done right:
-* [New York Times: Why Therapists Are Worried About America's Growing Mental Health Crisis ](https://www.nytimes.com/interactive/2021/12/16/well/mental-health-crisis-america-covid.html)
+* [New York Times: Why Therapists Are Worried About America's Growing Mental Health Crisis](https://www.nytimes.com/interactive/2021/12/16/well/mental-health-crisis-america-covid.html)
+
+
+# uncategorized
+
+## audio
+~Many ways to use it... obviously from audio-only formats to maybe using just a bit in a text-based pieced just to let you hear someone's voice
+or in a more multimedia piece to give a sense of environment, like in [this web docuentary from Bangladesh](https://www.nytimes.com/interactive/2018/05/30/world/asia/rohingya-monsoon-bangladesh.html)......
+
+
+## menu/accordion
+A menu doesn't just have to be for navigating to different pages - it can be the way that the uers browses the different sections of a single page.
+This example from [The Guardian](https://www.theguardian.com/uk-news/ng-interactive/2018/may/14/lives-of-grenfell-tower-victims-fire) uses a menu to lay out a long list of names of the victims of a tragic apartment block fire.
+[The New York Times](https://www.nytimes.com/interactive/2021/12/21/opinion/2021-essays-opinion.html) also uses it to give a truncated year-end recap in a way that lets the reader browse many different highlights, without getting lost by clicking away to another link that would take them away from the main experience.
+
+
+## maps
+Before Google Maps, they were used for a lot of things.
+- Maps can also visually lay out a world at perspective... kind of like a video game map ~ see this example from [TASS](https://edo.tass.com/map.html)
+- Choropleth:
+- Abstraction: 
+  - https://projects.propublica.org/reopening-america/
