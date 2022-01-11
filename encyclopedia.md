@@ -58,7 +58,7 @@ see also: [annotations]
 
 ## augmented reality (AR)
 Augmented reality (AR) is an enhanced version of the real physical world that is achieved through the use of digital visual elements, sound, or other sensory stimuli viewed through a device such as a stereoscopic headset, "smart glasses," or a smartphone camera and screen.
-_Games such as[ Pokémon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go) and[ Ingress](https://en.wikipedia.org/wiki/Ingress_(video_game)) utilize an[Image Linked Map](https://en.wikipedia.org/w/index.php?title=Image_Linked_Map&action=edit&redlink=1)(ILM) interface, where approved[geotagged](https://en.wikipedia.org/wiki/Geotagged) locations appear on a stylized map for the user to interact with._
+_Games such as[Pokémon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go) and[Ingress](https://en.wikipedia.org/wiki/Ingress_(video_game)) utilize an[Image Linked Map](https://en.wikipedia.org/w/index.php?title=Image_Linked_Map&action=edit&redlink=1)(ILM) interface, where approved[geotagged](https://en.wikipedia.org/wiki/Geotagged) locations appear on a stylized map for the user to interact with._
 ### Examples
 * [Masks Work. Really. We'll Show You How](https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html)
 * Pokémon Go
@@ -114,6 +114,15 @@ Shows the user a milestone of how far along they are.
 Effective at motivating the user, especially if you are asking them to do something. This creates a feeling of respecting their time, a visual reward for sticking through to the finish.
 * Example[on the web](http://preview.themeforest.net/item/sapphire-one-multipurpose-bootstrap-html5/full_screen_preview/15679180)
 
+
+## composition
+
+
+## composite image
+
+### Examples
+- [The New York Times: Bird’s Eye View of Protests Across the U.S. and Around the World](https://www.nytimes.com/interactive/2020/06/07/us/george-floyd-protest-aerial-photos.html)
+see also: [photogrammetry]
 
 ## crescendo
 [concept]
@@ -331,12 +340,13 @@ data needed: at least # data points for each…
 Journalists can use this to receive push notifications when Google indexes a new search result on a given keyword.
 Set a keyword, Google will notify you when new results get published.
 
+
 ## highlight
 [design]
-
-This technique selects information of great importance and draws extra attention to it, to give the reader
-
-* Example: NYT Jan 6 — by pausing and using light to mark a subject they want you to follow for what comes next.
+This technique selects information of great importance and draws extra attention to it, to give the reader.
+### Examples: 
+- NYT Jan 6 — by pausing and using light to mark a subject they want you to follow for what comes next.
+[Tracking China’s Muslim Gulag: Turning the desert into detention camps - Reuters](https://www.reuters.com/investigates/special-report/muslims-camps-china/)
 
 
 ## illustrated video
@@ -350,8 +360,14 @@ This is a term that spans history from theater to cinema to AR.
 [Wagner] described an “immersive” or “total theater” experience, where he wanted audiences to
 
 
+## info-visualization
+
+
 ## introduction
-The overture of a symphony. The opening scene of a movie. The tableau of * https://www.adressa.no/pluss/magasin/2020/08/13/Followed-22622879.ece
+The overture of a symphony. The opening scene of a movie... 
+
+- https://www.adressa.no/pluss/magasin/2020/08/13/Followed-22622879.ece
+- https://www.nytimes.com/interactive/2018/01/24/world/is-there-something-wrong-with-democracy.html
 
 
 ## JSON
@@ -389,6 +405,11 @@ Stands for Javascript Object Notation. It's a text file format for code that str
 [design vocabulary]
 Implies that two things are equal, concurrent
 See also: [diptych]
+
+
+## melody
+The melody is the main voice of a piece of music, as opposed to the harmony.
+Melody guides the center of the narrative. It can be thought of as the "main character" in a story, where the harmony serves as supporting characters. Of course, the melody can be a [duet] without changing its character too much.
 
 
 ## narrative
@@ -477,7 +498,10 @@ It establishes...
 
 ## photogrammetry
 [technique]
-The practice of building a three-dimensional model from photos.
+Photogrammetry is the art and science of turning two-dimensional images into 3D by tracing the overlap in photographs (or video frames)  and converting them into a 3D digital models of an object or space.
+Photogrammetry is often used by surveyors, architects, engineers, and contractors to create topographical maps, meshes, point clouds, or drawings to recreate simulated 3D representations of the real world.
+
+
 
 
 ## pie chart
@@ -538,6 +562,7 @@ The element of surprise: the curtain going up. The camera comes around a corner.
 Without scale, you don't know where you are. You can't have the zoom-in.
 This is so important when it comes to photography and cropping. It's not just about absolute size, but the size relative to how much space there is in the room of the viewer's mind. Can you feel big in a desert?
 - Example: Note in [this New York Times Magazine cover](https://newspagedesigner.org/blogs/the-value-of-great-photo-editing-and-the-strength-of-tiny-type) how the use of cropping creates a sense of scale that aligns with the content of the story - emphasizing the grandeur of this dying rhinoceros and the small text evoking powerlessness in face of its tragic, yet imminent extinction.
+- The importance of understanding scale is both the methodology and the theme of this piece by Reuters Graphics looking at the [Rohingya exodus](http://fingfx.thomsonreuters.com/gfx/rngs/MYANMAR-ROHINGYA/010050XD232/index.html).
 
 
 ## scrolling
@@ -564,6 +589,11 @@ Editors oftem employ this technique when they abruptly pause followign the narra
 Even though this may sort of drop the bottom out from a story that reader was engaging with, it serves to hold their attention and use the suspense of wanting to know what happens next, and utilize that to give them a boost of energy to get through a section of contextual factoids that may be a bit dry, yet necessary to delivering the larger goal of connecting this individual's story to a larger trend, or perhaps the nutgraph.
 
 
+## small multiples
+### Examples
+- https://projects.propublica.org/graphics/rape_clearance
+
+
 ## statistics
 ~Numbers and stuff...
 ### Resources
@@ -575,13 +605,18 @@ Even though this may sort of drop the bottom out from a story that reader was en
 ## sticky (position)
 A useful CSS property that makes things stick in place in the browser, enabling lots of story possibilities.
 - This [photo essay](https://www.nationalgeographic.com/culture/graphics/women-war-conflict-nigeria-peru-iraq-philippines-international-day-of-girl) is driven by its portraits, 
-
-- 
+ 
 
 ## timeline
 [presentation / layout]
 ### Tools
 - [ProPublica's Timeline Setter](https://github.com/propublica/timeline-setter) creates an HTML timeline out of 
+
+## timelapse
+When someone says 'timelapse,' we usually think of video. 
+### Examples
+- https://graphics.reuters.com/MYANMAR-ROHINGYA/010081Z83H9/index.html
+
 
 ## variable
 The term “variable” is liable to… _vary_ between different fields:**visual variable** (data visualization)
