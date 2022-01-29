@@ -1,16 +1,12 @@
 # Introduction
-
 The Encyclopedia of Storytelling is a lexicon describing techniques in the universal language of storytelling. This vocabulary of techniques crosses storytelling in all its forms: from journalism to design, literature to cinema, theatre, architecture and beyond.
-
 Edited by: Shawn Carrié / Code The News
-
+**entry template**
+````
 ## entry name
 [TAG]
-
 Description of the Entry, with any relevant [linked terms]
-
 _—Entry by Gustave Nameless_
-
 ### WHEN TO USE IT**
 _An advisory description on the choices that go into selecting a tool or technique._
 ### WHEN NOT TO USE IT**
@@ -19,10 +15,9 @@ _An advisory description on the choices that go into selecting a tool or techniq
 - Example
 - Example
 - Example
-
 _“ A relevant quote that captures the described concept beautifully. ” _
 _      — Author Name_
-
+````
 
 # The Encyclopedia of Storytelling
 
@@ -63,6 +58,9 @@ _Games such as[Pokémon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go) and[I
 * [Masks Work. Really. We'll Show You How](https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html)
 * Pokémon Go
 
+
+## cacophany
+Nobody likes too much information at once. But sometimes the magnitude is the point.
 
 ## cartography
 [tool]
@@ -192,8 +190,8 @@ Expectations, when they're met, imply regularity and inspire calm. Betray them, 
 
 ## factbox 
 [element]
-
-Reusable background facts about a figure or issue mentioned in the reportage. Helps readers get filled in about context that they might not be up to speed on.* Examples
+Contextual facts that can be reused about a person or issue mentioned in the reportage. Helps readers get filled in about context that they might not be up to speed on.
+### Examples
 * The Guardian uses them often
 * and [New York Times](https://www.nytimes.com/2017/12/14/business/media/a-g-sulzberger-new-york-times-publisher.html#link-54b0c850)
 * …So does [Reuters](https://news.trust.org/item/20211004030118-u5rh3)
@@ -349,22 +347,26 @@ This technique selects information of great importance and draws extra attention
 [Tracking China’s Muslim Gulag: Turning the desert into detention camps - Reuters](https://www.reuters.com/investigates/special-report/muslims-camps-china/)
 
 
-## illustrated video
+## illustration
 Important to note
-Examples:* [The Marshall Project - Welcome to the The Zo](https://www.themarshallproject.org/2020/02/27/welcome-to-the-zo)
+Examples:* [The Marshall Project - Welcome to the The Zo](https://www.themarshallproject.org/2020/02/27/welcome-to-the-zo) - winner of loads of awards, done by the talented Molly Crabapple
 
 
 ## immersion
 [jargon]
 This is a term that spans history from theater to cinema to AR.
-[Wagner] described an “immersive” or “total theater” experience, where he wanted audiences to
+IT actually comes from architecture and theatre.
+The composer Richard Wagner described an experience called _gesamtkunstwerk_ or "total theatre" , where he wanted audiences to be immersed...
+Wagner was the first major composer to do operas where the orchestra was concealed from the audience's view - the first time music was effectively a background element to other things going on stage. In the late 1800's, this was an early precursor to the use of music in cinema.
 
 
-## info-visualization
-
+## info-visualization 
+<!-- Should embed info-visualization  video or GIF examples here-->
+### Examples
 
 ## introduction
-The overture of a symphony. The opening scene of a movie... 
+[concept]
+The curtain goes up. The first shot of the film. The overture of a symphony. 
 
 - https://www.adressa.no/pluss/magasin/2020/08/13/Followed-22622879.ece
 - https://www.nytimes.com/interactive/2018/01/24/world/is-there-something-wrong-with-democracy.html
@@ -416,8 +418,14 @@ Melody guides the center of the narrative. It can be thought of as the "main cha
 
 
 ## Loading screen
-We're all used to these, but what's going on behind the scenes? The user experience is familiar, but they're basically a trick...
+We're all familiar with these, but  behind the scenes is basically an illusion...
+Any magician knows that the key to a good trick is distraction.
+When you visit a website, the magic of transporting all the assets - images, video, JavaScript interactivity - take time to load. 
+A loading animation can be used to basically cause a diversion to sustain the audience's attention long enough while the real work gets done.
+It may reflect the measure of the acutal progress of the assets loading, or it may not.
 
+### Examples
+- [Awwwards - Loading Screens](https://www.awwwards.com/awwwards/collections/loading-page/)
 
 ## Lottie Animation
 [tech]
@@ -583,8 +591,8 @@ Examples
 
 ## sforzando
 [concept]
-Musical term, from Italian meaning “ “. A loud sound suddenly coming to a chokingly abrupt stop.
-It's like the audio version of a “cliffhanger” - which is a story form in itself.
+Musical term, from Italian meaning " ". A loud sound suddenly coming to a chokingly abrupt stop.
+It's like the audio version of a "cliffhanger" - which is a story form in itself.
 Editors oftem employ this technique when they abruptly pause followign the narrative strands of a text story - which focus on the characters and what's happening with them - and switch to
 Even though this may sort of drop the bottom out from a story that reader was engaging with, it serves to hold their attention and use the suspense of wanting to know what happens next, and utilize that to give them a boost of energy to get through a section of contextual factoids that may be a bit dry, yet necessary to delivering the larger goal of connecting this individual's story to a larger trend, or perhaps the nutgraph.
 
@@ -638,6 +646,13 @@ Read: screen. The port in which a user views
 [technique]
 
 
+## wayfinder 
+Sometimes people get lost, and need a reminder of where thy are, so they can find their way. This is esepcially important on the internet, where are readers are asked to process a lot of information, even on a single page, let alone across all the tabs they have open, and whatever is going on IRL.
+_Wayfinders can take the form of..._
+**navigation**
+**progress indicators**
+
+
 ## waveform
 Resembling a wave, it's a visual representation of sound frequencies.
 Sometimes used with voice (not always motivated)
@@ -655,7 +670,15 @@ A bit cheesy, but if done right:
 * [New York Times: Why Therapists Are Worried About America's Growing Mental Health Crisis](https://www.nytimes.com/interactive/2021/12/16/well/mental-health-crisis-america-covid.html)
 
 
+## zoom out
+origin:[cinematography]
+When the camera zooms out, the small details in [closeup] become less important and you get a [perspective] on the bigger picture.
+
+
+
 # uncategorized
+
+
 
 ## audio
 ~Many ways to use it... obviously from audio-only formats to maybe using just a bit in a text-based pieced just to let you hear someone's voice
