@@ -241,6 +241,12 @@ On the web, a form is made up of HTML [input] elements, and a magic Submit butto
 * [reader submissions]
 
 
+## the fourth wall
+A term that comes from theatre, film and television for when an actor momentarily "stops acting" to turn to the audience to make a joke or something.
+Journalism also takes itself seriously most of the time, rarely directly interpellating the reader, unless it's an extraneous appeal to subscribe, or something similar. 
+How can this technique be used effective? How is it different from regular interactivity?
+<!-- Probably since interactivity is two ways... -->
+
 ## Geospatial Information Systems (GIS)
 Geo, from the Greek _“ gē ”_ for  ‘earth'. Spatial, from the Latin _“ spatium ”_ for ‘space'.
 In other words, maps with data.*
@@ -565,6 +571,10 @@ Though best described in modern terms as "the part where you begin wrapping it u
 The element of surprise: the curtain going up. The camera comes around a corner. Reveal is all about how you unveil something that was hidden.
 
 
+## rule of thirds
+[composition]
+
+
 ## scale
 [visual vocabulary]
 Without scale, you don't know where you are. You can't have the zoom-in.
@@ -588,6 +598,8 @@ http://interactive.sun-sentinel.com/voices-of-change/
 Examples
 * [New York Times: How The Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
 
+
+## slideshow
 
 ## sforzando
 [concept]
