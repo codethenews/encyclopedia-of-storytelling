@@ -87,7 +87,7 @@ Ask: Do you want to know the answer to this question? - and you've enticed them,
 
 ## color
 #### [visual vocabulary]
-_Color shows harmony. The goal should always be to use color to simplify the information, but it's easy to have a little too much fun with the color palette and overcomplicate the message. A rainbow palette is visually interesting, but usually makes the data more difficult to understand. Instead, choose a palette that helps viewers read your visualization at a glance—and always use darker or more vivid colors as the fill color. A solid foundation to use when getting started is to start with some widely accepted basic color schemes: _
+Color shows harmony. The goal should always be to use color to simplify the information, but it's easy to have a little too much fun with the color palette and overcomplicate the message. A rainbow palette is visually interesting, but usually makes the data more difficult to understand. Instead, choose a palette that helps viewers read your visualization at a glance—and always use darker or more vivid colors as the fill color. A solid foundation to use when getting started is to start with some widely accepted basic color schemes: _
   * _Complementary Colors: opposite one another on the color wheel. _
   * _Split Complementary: One color and the two colors on either side of its complementary color wheel. _
   * _Triad: Three colors from equidistant points on the color wheel._
@@ -124,7 +124,9 @@ see also: [photogrammetry]
 
 ## crescendo
 [concept]
-Italian for _“growing,”_ crescendo is a term that comes from music to denote a gradual but decisive increase in volume or intensity.* Bolero
+Italian for _“growing,”_ crescendo is a term that comes from music to denote a gradual but decisive increase in volume or intensity.
+### Examples
+- [Bolero](https://www.youtube.com/watch?v=E9PiL5icwic)
 
 
 ## data
@@ -166,7 +168,7 @@ Two things side by side.
 
 ## distribution
 [math]
-In [data] visualization and especially [charts] and graphs, distribution is………
+In [data visualization] and especially [charts] and graphs, distribution is a mathematical function that can be used to calculate the probability for any individual observation from the sample space.
 
 
 ## feedback
@@ -199,12 +201,10 @@ Contextual facts that can be reused about a person or issue mentioned in the rep
 
 ## fade-in
 [technique] [design vocabulary]
-
 A fade-in creates a sense of the ephemeral – it serves to underscore an element's existence – not just that when you come to it while scrolling on a page.
-
 A fade-in is (usually) achieved by changing the element's [opacity] over a short transition period._ A quick transition means …, a slower transition can mean…_
-
 _see also: [opacity]
+
 
 ## field of view
 [concept]
@@ -229,9 +229,23 @@ A technique that moves through frames tied to the user's scroll position on the 
 * [New York Times: Beirut](https://www.nytimes.com/interactive/2020/09/09/world/middleeast/beirut-explosion.html)
 
 
+## gamification
+Games are fun. People like games. If you can make learning fun, then you can make news interesting.
+
+
 ## geolocation
 [technique]
 The science of looking at photos and determining where on the map they were taken.
+
+
+## Geospatial Information Systems (GIS)
+Geo, from the Greek _“ gē ”_ for  ‘earth'. Spatial, from the Latin _“ spatium ”_ for ‘space'.
+In other words, maps with data.*
+### Examples
+* [Mapping data and visualizing geospatial information: A quick introduction for journalists](https://journalistsresource.org/home/mapping-data-visualization-geospatial-information-journalism/)
+
+
+## Google Alert
 
 
 ## form
@@ -245,15 +259,11 @@ On the web, a form is made up of HTML [input] elements, and a magic Submit butto
 A term that comes from theatre, film and television for when an actor momentarily "stops acting" to turn to the audience to make a joke or something.
 Journalism also takes itself seriously most of the time, rarely directly interpellating the reader, unless it's an extraneous appeal to subscribe, or something similar. 
 How can this technique be used effective? How is it different from regular interactivity?
+### Examples
+- LA Times
 <!-- Probably since interactivity is two ways... -->
 
-## Geospatial Information Systems (GIS)
-Geo, from the Greek _“ gē ”_ for  ‘earth'. Spatial, from the Latin _“ spatium ”_ for ‘space'.
-In other words, maps with data.*
 
-
-### Examples
-* [Mapping data and visualizing geospatial information: A quick introduction for journalists](https://journalistsresource.org/home/mapping-data-visualization-geospatial-information-journalism/)
 
 graphs & charts
 
@@ -353,16 +363,21 @@ This technique selects information of great importance and draws extra attention
 [Tracking China’s Muslim Gulag: Turning the desert into detention camps - Reuters](https://www.reuters.com/investigates/special-report/muslims-camps-china/)
 
 
+## HTML
+HTML is the standard markup language for displaying content in a web browser. When combined with [CSS] to define visual presentation, and [JavaScript] for interactivity, you get… websites!
+In other words, HTML is the code that defines the structure of the content you see on the web.
+
+
 ## illustration
-Important to note
+Pictures that aren't made using a camera.
 Examples:* [The Marshall Project - Welcome to the The Zo](https://www.themarshallproject.org/2020/02/27/welcome-to-the-zo) - winner of loads of awards, done by the talented Molly Crabapple
 
 
 ## immersion
 [jargon]
-This is a term that spans history from theater to cinema to AR.
-IT actually comes from architecture and theatre.
-The composer Richard Wagner described an experience called _gesamtkunstwerk_ or "total theatre" , where he wanted audiences to be immersed...
+Though this term  spans history from theater to cinema to AR,
+its origin is in architecture and theater.
+The composer Richard Wagner described an experience called _gesamtkunstwerk_ or "total theater" , where he wanted audiences to be immersed...
 Wagner was the first major composer to do operas where the orchestra was concealed from the audience's view - the first time music was effectively a background element to other things going on stage. In the late 1800's, this was an early precursor to the use of music in cinema.
 
 
@@ -379,13 +394,14 @@ The curtain goes up. The first shot of the film. The overture of a symphony.
 
 
 ## JSON
-Stands for Javascript Object Notation. It's a text file format for code that structures an array of data according to key-value pairs. It's used in all kinds of contexts from …… to ……
+Stands for Javascript Object Notation. It's a text file format for code that structures an array of data according to key-value pairs. It's used in all kinds of contexts to store and transfer data.
+Similar to a spreadsheet, it can store a large of amount of data that shares a similar structure of key/value pairs.
+
 
 ```
 {
   "firstName": "John",
   "lastName": "Smith",
-  "isAlive": true,
   "age": 27,
   "address": {
     "streetAddress": "21 2nd Street",
@@ -411,13 +427,10 @@ Stands for Javascript Object Notation. It's a text file format for code that str
 
 ## juxtaposition
 [design vocabulary]
-Implies that two things are equal, concurrent
+Placing two objects next to one another implies some sort of a relationship between them. They are worthy of our considering them together, comparing, or contrasting them. It may imply they are equal or concurrent, or perhaps in opposition.
 See also: [diptych]
 
 
-## melody
-The melody is the main voice of a piece of music, as opposed to the harmony.
-Melody guides the center of the narrative. It can be thought of as the "main character" in a story, where the harmony serves as supporting characters. Of course, the melody can be a [duet] without changing its character too much.
 
 
 ## narrative
@@ -429,13 +442,14 @@ Any magician knows that the key to a good trick is distraction.
 When you visit a website, the magic of transporting all the assets - images, video, JavaScript interactivity - take time to load. 
 A loading animation can be used to basically cause a diversion to sustain the audience's attention long enough while the real work gets done.
 It may reflect the measure of the acutal progress of the assets loading, or it may not.
-
 ### Examples
 - [Awwwards - Loading Screens](https://www.awwwards.com/awwwards/collections/loading-page/)
+
 
 ## Lottie Animation
 [tech]
 A lightweight web-friendly animation format based on [JSON].
+They're like [GIFs], but made from [vector graphics].
 
 
 ## Markdown
@@ -443,8 +457,23 @@ Markdown allows you to quickly turn written text into HTML using simplified symb
 * Created by[John Gruber](https://daringfireball.net/contact/)
 
 
+## maps
+Before Google Maps, they were used for a lot of things.
+- Maps can also visually lay out a world at perspective... kind of like a video game map ~ see this example from [TASS](https://edo.tass.com/map.html)
+- Choropleth:
+- Abstraction: 
+  - https://projects.propublica.org/reopening-america/
+
+
+## melody
+The melody is the main voice of a piece of music, as opposed to the harmony.
+Melody guides the center of the narrative. It can be thought of as the "main character" in a story, where the harmony serves as supporting characters. Of course, the melody can be a [duet] without changing its character too much.
+
+
 ## mimicry
-Aristotle says…
+_WikiPedia:_
+The original Ancient Greek term mīmēsis (μίμησις) derives from mīmeisthai (μιμεῖσθαι, 'to imitate'). In ancient Greece, mīmēsis was an idea that governed the creation of works of art, in particular, with correspondence to the physical world understood as a model for beauty, truth, and the good. Plato contrasted mimesis, or imitation, with diegesis, or narrative. After Plato, the meaning of mimesis eventually shifted toward a specifically literary function in ancient Greek society.
+In storytelling, mimicry can be used to draw on what is familiar to an audience in order to elicit an emotion. Or, it can be used as a design technique.
 ### Examples:
 * [https://www.adressa.no/pluss/magasin/2020/08/13/Followed-22622879.ece](https://www.adressa.no/pluss/magasin/2020/08/13/Followed-22622879.ece)
 
@@ -458,43 +487,43 @@ On the web, this can be a **slideshow,** or....
 ## motion
 [design/visual]
 Motion captures attention, and can represent energy,.
-Motion needs to be [motivated] by something. In cinematography, camera movements are often described as being motivated or unmotivated by something happening in the frame - a character's movements, actions, or maybe even their thoughts.
-
+Motion needs to be [motivated] by something. In cinematography, camera movements are often described as being motivated or unmotivated by something happening in the frame - a character's movements, actions, or maybe even their thoug
 ```
 There are moments in the films of French filmmaker Jean-Luc Godard, father of what came to be known as the French New Wave in cinema, where the camera moves in an unmotivated way, almost like a distracted viewer who wants to get away and focus on a window or something. This de-emphasizes the subjects, and serves as a meta-commentary on cinema: implying on the relative unimportance of the things we point our cameras, and therefore attention at – I'm not creative enough to think of a way that might be applicable to journalism - but if you want to be the Godard of journalism, say go for it! Send me a postcard from ;;
 ```
-
 Motion can very easily be overused. Especially in journalism, things need to stay still for people to absorb them, especially words… So how it be used effectively?
 
 ## one at a time **(regularity?)
 []
-A type of [rhythm] that uses silence and space between, and removes complexity in order to place attention on the message being delivered.**This could also be called *regularity* or consistency, or monotony, or Bolero.
+A type of [rhythm] that uses silence and space between, and removes complexity in order to place attention on the message being delivered.
+**This could also be called *regularity* or consistency, or monotony, or Bolero.
 
 
 ## opacity
-* In [this section](https://genocide.greatarmenia.org/massacre/) of a larger piece [chronicling the history](https://genocide.greatarmenia.org/) leading up the systematic genocidal killings targeting Armenians in the late Ottoman Empire, [opacity] is used on a series of photos showing graphic, pain-stricken bodies. Appearing  in quick succession, with a timed transition that renders the photos appearing slowly, ephemerally, almost ghost-like - the use of [opacity] has the effect of lessening the impact of disturbing images. Although more such images appear later in the piece, this technique also serves as a sort of disclaimer, alerting the reader that more graphic images are to come.
+When an object's opacity = 0 it is fully transparent, or invisible. When it's opacity = 1, it is fully visible.
+In [this section](https://genocide.greatarmenia.org/massacre/) of a larger piece [chronicling the history](https://genocide.greatarmenia.org/) leading up the systematic genocidal killings targeting Armenians in the late Ottoman Empire, [opacity] is used on a series of photos showing graphic, pain-stricken bodies. Appearing  in quick succession, with a timed transition that renders the photos appearing slowly, ephemerally, almost ghost-like - the use of [opacity] has the effect of lessening the impact of disturbing images. Although more such images appear later in the piece, this technique also serves as a sort of disclaimer, alerting the reader that more graphic images are to come.
 
 
 ## Optical Character Recognition (OCR)
 [tool/technique]
 PDF documents, especially if they were created from scans of paper docuents, may not have the text converted into machine-readable text characters, which would allow you copy & paste it, or extract the data in order to do any further analysis. In that case, you will need to run it through a program that can perform Optical Character Recognition (OCR).
-
 These include:
 - Abode Acrobat (licensed)
 - (Open Source) [GUI](https://tesseract-ocr.github.io/tessdoc/User-Projects-%E2%80%93-3rdParty.html) or Command Line
-
 See more about [working with scanned documents…]()
 
-## opensource
+
+## open source
 []
-A field and a movement, it]s the idea that anyone can look inside the code. It ensures transparency, that an app does what it says it does. It allows people to learn from, even copy and build upon a set of code.* 
+At once an industry, a style, and a movement, it]s the idea that anyone can look inside the code. It ensures transparency, that an app does what it says it does. It allows people to learn from, even copy and build upon a set of code.* 
  There are communities like [#opengov]...
 * [Key data- and research-oriented government agencies that media members should know about](https://journalistsresource.org/home/u-s-government-agencies-reports-data-resources/)
 * [Major administrative datasets of the U.S. government — all in one place](https://journalistsresource.org/politics-and-government/websites-u-s-federal-government-administrative-datasets/)
 
 
 ## open source intelligence (OSINT)
-* [https://tcij.org/bespoke-training/open-source-intelligence/](https://tcij.org/bespoke-training/open-source-intelligence/)
+The collection and analysis of data gathered from publicly available sources - such as online databases or social media to support an investigation. A relatively new field born on social media and innovated largely thanks to the work of dedicated amateurs, it has proven a powerful tool for journalism.
+- Information from the [Center for Investigative Journalism](https://tcij.org/bespoke-training/open-source-intelligence/)
 
 
 ## parallax
@@ -521,7 +550,7 @@ Photogrammetry is often used by surveyors, architects, engineers, and contractor
 ## pie chart
 [dataviz]
 _ dataviz_
-* _ most data visualization experts would recommend avoiding pie charts completely because they are frequently misused and can so easily misrepresent the data. Their popularity is high, but their usability is low. Pie charts are used to depict a part of a whole, creating the common misconception that all percentages can be accurately represented by a pie chart. But a percentage meant to show an increase or decrease from an original number, common in financial reporting, can't be accurately represented by a pie chart because pie charts do not show change over time and are usually not appropriate for making comparisons._
+Most data visualization practitioners would recommend avoiding pie charts completely because they are frequently misused and can so easily misrepresent the data. Their popularity is high, but their usability is low. Pie charts are used to depict a part of a whole, creating the common misconception that all percentages can be accurately represented by a pie chart. But a percentage meant to show an increase or decrease from an original number, common in financial reporting, can't be accurately represented by a pie chart because pie charts do not show change over time and are usually not appropriate for making comparisons.
 
 
 ## portrait (see also: video portrait)
@@ -533,7 +562,7 @@ When a designer wants to show off an interactive site, their first working draft
 
 ## Raspberry Pi
 [hardware]
-A tiny computer the size of a sandwich, that can run simple programs and be deployed cheaply almost anywhere
+A tiny computer the size of a sandwich, that can run simple programs and be deployed cheaply almost anywhere.
 * [Who Gets to Breathe Clean Air in New Delhi?](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html)
 
 
@@ -542,7 +571,7 @@ This "community engagement" strategy is old as newspapers themselves. Whether Le
 _Technology Needed:_ * A [form] on your website to receive submissions
 * Either a service, or a server to receive the form entry data
 ### Examples:
-* The New York Times[Tiny Love Stories](https://www.nytimes.com/column/modern-love) ([Submissions](https://www.nytimes.com/2018/09/19/style/modern-love-tiny-love-stories.html))
+* The New York Times[Tiny Love Stories](https://www.nytimes.com/column/modern-love) ([Submissions](https://www.nytimes.com/2018/09/19/style/modern-love-tiny-love-stories.html)
 
 
 ## reverse IP address lookup
@@ -560,11 +589,12 @@ Remember that rhythm is the product of the relationship between sound and the ab
 ## recapitulation
 [concept]
 Though best described in modern terms as "the part where you begin wrapping it up"-  the recapitulation is one of the defining characteristics of the sonata form in Western classical music.* Read more from [Encyclopedia Britannica](https://www.britannica.com/art/sonata-form/Development#ref1180277)
+_Fun fact:_ Scholars of Beethoven have studied his Fifth Symphony and [pointed out](https://www.cmuse.org/wp-content/uploads/2015/07/fifth-symphony-golden-ratio.jpg) that the recapitulation starts wrapping up exactly 61.8% of the way through ~ which is the Golden Ratio!
 
 
 ## regression
 [statistics]
-[Regression analysis: A quick primer for media on a fundamental form of data crunching](https://journalistsresource.org/home/regression-analysis-primer-for-journalists/)
+- [Regression analysis: A quick primer for media on a fundamental form of data crunching](https://journalistsresource.org/home/regression-analysis-primer-for-journalists/)
 
 
 ## reveal/revelation
@@ -595,11 +625,10 @@ This can be used to more neatly guide the experience onto certain points, giving
 http://interactive.sun-sentinel.com/voices-of-change/
 
 ## scrollytelling
-Examples
-* [New York Times: How The Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
+### Examples
+- [New York Times: How The Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
 
 
-## slideshow
 
 ## sforzando
 [concept]
@@ -607,6 +636,9 @@ Musical term, from Italian meaning " ". A loud sound suddenly coming to a chokin
 It's like the audio version of a "cliffhanger" - which is a story form in itself.
 Editors oftem employ this technique when they abruptly pause followign the narrative strands of a text story - which focus on the characters and what's happening with them - and switch to
 Even though this may sort of drop the bottom out from a story that reader was engaging with, it serves to hold their attention and use the suspense of wanting to know what happens next, and utilize that to give them a boost of energy to get through a section of contextual factoids that may be a bit dry, yet necessary to delivering the larger goal of connecting this individual's story to a larger trend, or perhaps the nutgraph.
+
+
+## slideshow
 
 
 ## small multiples
@@ -627,27 +659,38 @@ A useful CSS property that makes things stick in place in the browser, enabling 
 - This [photo essay](https://www.nationalgeographic.com/culture/graphics/women-war-conflict-nigeria-peru-iraq-philippines-international-day-of-girl) is driven by its portraits, 
  
 
+## Scalable Vector Graphics (SVG)
+An image that is created using [vector graphics], as opposed to raster.
+
+
 ## timeline
 [presentation / layout]
 ### Tools
 - [ProPublica's Timeline Setter](https://github.com/propublica/timeline-setter) creates an HTML timeline out of 
 
+
 ## timelapse
-When someone says 'timelapse,' we usually think of video. 
+When someone says 'timelapse,' we usually think of video.
+The suggestion of the passage of time can also be accomplished with images...
 ### Examples
 - https://graphics.reuters.com/MYANMAR-ROHINGYA/010081Z83H9/index.html
 
 
 ## variable
-The term “variable” is liable to… _vary_ between different fields:**visual variable** (data visualization)
-
-    _Diagram by [Data4Change](https://sites.google.com/data4chan.ge/databasics-create/04)
+The term “variable” is liable to… _vary_ between different fields:
+### visual variable
+    _Diagram by [Data4Change](https://sites.google.com/data4chan.ge/databasics-create/04)_
 
 
 ## variable (programming)
 
+
 ## video
 A sequence of images played really fast in a certain order that mimics what we see to give the illusion that the things depicted are moving.
+
+
+## vector graphics
+
 
 
 ## viewport
@@ -661,8 +704,8 @@ Read: screen. The port in which a user views
 ## wayfinder 
 Sometimes people get lost, and need a reminder of where thy are, so they can find their way. This is esepcially important on the internet, where are readers are asked to process a lot of information, even on a single page, let alone across all the tabs they have open, and whatever is going on IRL.
 _Wayfinders can take the form of..._
-**navigation**
-**progress indicators**
+### navigation
+### progress indicators
 
 
 ## waveform
@@ -694,7 +737,7 @@ When the camera zooms out, the small details in [closeup] become less important 
 
 ## audio
 ~Many ways to use it... obviously from audio-only formats to maybe using just a bit in a text-based pieced just to let you hear someone's voice
-or in a more multimedia piece to give a sense of environment, like in [this web docuentary from Bangladesh](https://www.nytimes.com/interactive/2018/05/30/world/asia/rohingya-monsoon-bangladesh.html)......
+or in a more multimedia piece to give a sense of environment, like in [this web docuentary from Bangladesh](https://www.nytimes.com/interactive/2018/05/30/world/asia/rohingya-monsoon-bangladesh.html)
 
 
 ## menu/accordion
@@ -703,9 +746,4 @@ This example from [The Guardian](https://www.theguardian.com/uk-news/ng-interact
 [The New York Times](https://www.nytimes.com/interactive/2021/12/21/opinion/2021-essays-opinion.html) also uses it to give a truncated year-end recap in a way that lets the reader browse many different highlights, without getting lost by clicking away to another link that would take them away from the main experience.
 
 
-## maps
-Before Google Maps, they were used for a lot of things.
-- Maps can also visually lay out a world at perspective... kind of like a video game map ~ see this example from [TASS](https://edo.tass.com/map.html)
-- Choropleth:
-- Abstraction: 
-  - https://projects.propublica.org/reopening-america/
+
