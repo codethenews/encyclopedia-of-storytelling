@@ -350,10 +350,10 @@ data needed: at least # data points for each…
 
 ## Google Alert
 [tool]
-
-Journalists can use this to receive push notifications when Google indexes a new search result on a given keyword.
-Set a keyword, Google will notify you when new results get published.
-
+You set it once, and Google will tell you when new pages are added to the internet that match your search keywords.
+Journalists can use this to effectively set up your own push notifications when Google indexes a new search result on a given keyword.
+To [set up a Google Alert,](https://google.com/alerts) you first set a keyword and a delivery method. Google will notify you when new results get published.
+There are other ways to do the same concept…
 
 ## highlight
 [design]
@@ -558,6 +558,12 @@ Most data visualization practitioners would recommend avoiding pie charts comple
 
 ## prototype
 When a designer wants to show off an interactive site, their first working draft they show off is called a prototype.
+
+
+## R
+[programming language for charts]
+### Resources
+- [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
 
 ## Raspberry Pi
