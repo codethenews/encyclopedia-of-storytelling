@@ -1,0 +1,1 @@
+Games are fun. People like games. If you can make learning fun, then you can make news interesting.

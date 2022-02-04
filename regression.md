@@ -1,0 +1,1 @@
+- [Regression analysis: A quick primer for media on a fundamental form of data crunching](https://journalistsresource.org/home/regression-analysis-primer-for-journalists/)

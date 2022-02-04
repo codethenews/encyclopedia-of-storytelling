@@ -1,0 +1,1 @@
+A sequence of images played really fast in a certain order that mimics what we see to give the illusion that the things depicted are moving.

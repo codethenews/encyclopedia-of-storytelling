@@ -1,0 +1,2 @@
+The melody is the main voice of a piece of music, as opposed to the harmony.
+Melody guides the center of the narrative. It can be thought of as the "main character" in a story, where the harmony serves as supporting characters. Of course, the melody can be a [duet] without changing its character too much.

@@ -1,0 +1,5 @@
+A musical term, from Italian meaning _straining, or striving_; a loud sound suddenly coming to a chokingly abrupt stop.
+It is a gasp of energy, prematurely squelched.
+It's like the auditory expression version of a "cliffhanger" - which is a story form in itself.
+Editors oftem employ this technique when they abruptly pause followign the narrative strands of a text story - which focus on the characters and what's happening with them - and switch to
+Even though this may sort of drop the bottom out from a story that reader was engaging with, it serves to hold their attention and use the suspense of wanting to know what happens next, and utilize that to give them a boost of energy to get through a section of contextual factoids that may be a bit dry, yet necessary to delivering the larger goal of connecting this individual's story to a larger trend, or perhaps the nutgraph.

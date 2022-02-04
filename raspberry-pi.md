@@ -1,0 +1,2 @@
+A tiny computer the size of a credit card that can run simple programs and be deployed cheaply almost anywhere.
+* [Who Gets to Breathe Clean Air in New Delhi?](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html)

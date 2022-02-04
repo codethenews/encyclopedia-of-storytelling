@@ -262,10 +262,6 @@ In other words, maps with data.*
 * [Mapping data and visualizing geospatial information: A quick introduction for journalists](https://journalistsresource.org/home/mapping-data-visualization-geospatial-information-journalism/)
 
 
-## Google Alert
-
-
-
 graphs & charts
 
 descriptions from Github [Apache] and Wikipedia [Creative Commons]
@@ -494,6 +490,7 @@ There are moments in the films of French filmmaker Jean-Luc Godard, father of wh
 ```
 Motion can very easily be overused. Especially in journalism, things need to stay still for people to absorb them, especially words… So how it be used effectively?
 
+
 ## one at a time **(regularity?)
 []
 A type of [rhythm] that uses silence and space between, and removes complexity in order to place attention on the message being delivered.
@@ -530,8 +527,7 @@ The collection and analysis of data gathered from publicly available sources - s
 ## parallax
 Parallax is an optical illusion that occurs because objects closer to the viewer appear to move faster than objects that are further away.
 Picture yourself on a moving train watching the trees go by. The trees close to the track appear to whiz by, while the trees further away appear to slowly crawl by in the distance.
-_What does this visual effect accomplish on the web?_
-
+-_What does this visual effect accomplish on the web?_
 
 
 ## perspective
@@ -554,7 +550,8 @@ _ dataviz_
 Most data visualization practitioners would recommend avoiding pie charts completely because they are frequently misused and can so easily misrepresent the data. Their popularity is high, but their usability is low. Pie charts are used to depict a part of a whole, creating the common misconception that all percentages can be accurately represented by a pie chart. But a percentage meant to show an increase or decrease from an original number, common in financial reporting, can't be accurately represented by a pie chart because pie charts do not show change over time and are usually not appropriate for making comparisons.
 
 
-## portrait (see also: video portrait)
+## portrait 
+(see also: video portrait)
 
 
 ## prototype
@@ -630,9 +627,8 @@ Yes, we're used to web pages scrolling top to bottom. Scrolling vertically down 
 ### scroll snapping
 This can be used to more neatly guide the experience onto certain points, giving the feeling of "slides."
 http://interactive.sun-sentinel.com/voices-of-change/
-
-## scrollytelling
-### Examples
+### scrollytelling
+#### Examples
 - [New York Times: How The Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
 
 
@@ -670,12 +666,6 @@ A useful CSS property that makes things stick in place in the browser, enabling 
 An image that is created using [vector graphics], as opposed to raster.
 
 
-## timeline
-[presentation / layout]
-### Tools
-- [ProPublica's Timeline Setter](https://github.com/propublica/timeline-setter) creates an HTML timeline out of 
-
-
 ## timelapse
 When someone says 'timelapse,' we usually think of video.
 The suggestion of the passage of time can also be accomplished with images...
@@ -683,10 +673,17 @@ The suggestion of the passage of time can also be accomplished with images...
 - https://graphics.reuters.com/MYANMAR-ROHINGYA/010081Z83H9/index.html
 
 
+## timeline
+[presentation / layout]
+### Tools
+- [ProPublica's Timeline Setter](https://github.com/propublica/timeline-setter) creates an HTML timeline out of 
+
 ## variable
-The term “variable” is liable to… _vary_ between different fields:
+The term “variable” is liable to… _vary_ between different fields.
+### variable (graphics)
+A variable in a chart of graphic is simply one of the points of data being presented. 
 ### visual variable
-    _Diagram by [Data4Change](https://sites.google.com/data4chan.ge/databasics-create/04)_
+    _[Diagram by Data4Change](https://sites.google.com/data4chan.ge/databasics-create/04)_
 
 
 ## variable (programming)
@@ -701,11 +698,16 @@ A sequence of images played really fast in a certain order that mimics what we s
 
 
 ## viewport
-Read: screen. The port in which a user views
+Read: screen. The port through which a user views things.
 
 
 ## visual investigation
 [technique]
+
+
+## waveform
+Resembling a wave, it's a visual representation of sound frequencies.
+Sometimes used with voice (not always motivated)
 
 
 ## wayfinder 
@@ -713,11 +715,6 @@ Sometimes people get lost, and need a reminder of where thy are, so they can fin
 _Wayfinders can take the form of..._
 ### navigation
 ### progress indicators
-
-
-## waveform
-Resembling a wave, it's a visual representation of sound frequencies.
-Sometimes used with voice (not always motivated)
 
 
 ## web scraping

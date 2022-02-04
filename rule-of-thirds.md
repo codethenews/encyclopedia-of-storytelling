@@ -1,0 +1,1 @@
+A concept in photography, cinematography and visual composition that proposes…

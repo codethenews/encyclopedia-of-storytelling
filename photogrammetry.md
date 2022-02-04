@@ -1,0 +1,2 @@
+Photogrammetry is the art and science of turning two-dimensional images into 3D by tracing the overlap in photographs (or video frames)  and converting them into a 3D digital models of an object or space.
+Photogrammetry is often used by surveyors, architects, engineers, and contractors to create topographical maps, meshes, point clouds, or drawings to recreate simulated 3D representations of the real world.

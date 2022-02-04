@@ -1,0 +1,1 @@
+The element of surprise: the curtain going up. The camera comes around a corner. Reveal is all about how you unveil something that was hidden.

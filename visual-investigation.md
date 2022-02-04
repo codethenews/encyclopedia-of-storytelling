@@ -1,0 +1,1 @@
+> Is this actually a common use-term, or is only used by The New York Times [to refer to its investigations?](https://gijn.org/2021/11/09/visual-investigations/) 

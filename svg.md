@@ -1,0 +1,1 @@
+An file format for images created using [vector graphics], as opposed to a matrix of pixels (raster images). 

@@ -1,0 +1,1 @@
+The curtain goes up. The first shot of the film. The overture of a symphony. 

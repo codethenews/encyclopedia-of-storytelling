@@ -1,0 +1,2 @@
+A type of [rhythm] that uses silence and space between, and removes complexity in order to place attention on the message being delivered.
+**This could also be called *regularity* or consistency, or monotony.

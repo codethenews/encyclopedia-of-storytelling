@@ -1,0 +1,2 @@
+A [CSS](css) property that makes things stick in place in the browser, enabling lots of story possibilities.
+- This [photo essay](https://www.nationalgeographic.com/culture/graphics/women-war-conflict-nigeria-peru-iraq-philippines-international-day-of-girl) is driven by its portraits…
