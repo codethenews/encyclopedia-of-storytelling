@@ -1,0 +1,1 @@
+Expectations, when they're met, imply regularity and inspire calm. Betray them, and it can generate a sense of excitement, or also anxiety. That can be what you want, but even when trying to be avant garde, always remember basic expectations - that something will function basically.

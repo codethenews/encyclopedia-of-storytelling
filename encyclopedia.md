@@ -55,8 +55,8 @@ see also: [annotations]
 Augmented reality (AR) is an enhanced version of the real physical world that is achieved through the use of digital visual elements, sound, or other sensory stimuli viewed through a device such as a stereoscopic headset, "smart glasses," or a smartphone camera and screen.
 _Games such as[Pokémon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go) and[Ingress](https://en.wikipedia.org/wiki/Ingress_(video_game)) utilize an[Image Linked Map](https://en.wikipedia.org/w/index.php?title=Image_Linked_Map&action=edit&redlink=1)(ILM) interface, where approved[geotagged](https://en.wikipedia.org/wiki/Geotagged) locations appear on a stylized map for the user to interact with._
 ### Examples
-* [Masks Work. Really. We'll Show You How](https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html)
-* Pokémon Go
+- [Masks Work. Really. We'll Show You How](https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html)
+- Pokémon Go
 
 
 ## cacophany
@@ -117,7 +117,6 @@ Effective at motivating the user, especially if you are asking them to do someth
 
 
 ## composite image
-
 ### Examples
 - [The New York Times: Bird’s Eye View of Protests Across the U.S. and Around the World](https://www.nytimes.com/interactive/2020/06/07/us/george-floyd-protest-aerial-photos.html)
 see also: [photogrammetry]
@@ -223,6 +222,24 @@ How to combine entries for [fixed position] and [sticky position] ???
 -->
 
 
+
+
+## form
+Everyone knows what a form is. We fill them out in order to give to someone who is collecting data. So what happens with that data?
+On the web, a form is made up of HTML [input] elements, and a magic Submit button that takes all the data from the inputs and fires it off somewhere on the internet. Presto! Now you have [data].
+### Examples:
+* [reader submissions]
+
+
+## the fourth wall
+A term that comes from theatre, film and television for when an actor momentarily "stops acting" to turn to the audience to make a joke or something.
+Journalism also takes itself seriously most of the time, rarely directly interpellating the reader, unless it's an extraneous appeal to subscribe, or something similar. 
+How can this technique be used effective? How is it different from regular interactivity?
+### Examples
+- LA Times
+<!-- Probably since interactivity is two ways... -->
+
+
 ## frame scrubbing
 A technique that moves through frames tied to the user's scroll position on the page.
 ### Examples
@@ -246,22 +263,6 @@ In other words, maps with data.*
 
 
 ## Google Alert
-
-
-## form
-Everyone knows what a form is. We fill them out in order to give to someone who is collecting data. So what happens with that data?
-On the web, a form is made up of HTML [input] elements, and a magic Submit button that takes all the data from the inputs and fires it off somewhere on the internet. Presto! Now you have [data].
-### Examples:
-* [reader submissions]
-
-
-## the fourth wall
-A term that comes from theatre, film and television for when an actor momentarily "stops acting" to turn to the audience to make a joke or something.
-Journalism also takes itself seriously most of the time, rarely directly interpellating the reader, unless it's an extraneous appeal to subscribe, or something similar. 
-How can this technique be used effective? How is it different from regular interactivity?
-### Examples
-- LA Times
-<!-- Probably since interactivity is two ways... -->
 
 
 

@@ -1,0 +1,6 @@
+Like the notes and doodles in the margin of a high school textbook left by its previous owner, annotations draw your attention to the most important information. Often used to highlight the key figures in a document, annotations reveal [the artists hand] and give the reader access to the thinking behind the creation, for example to demonstrate an expert saving you the time of sifting though countless documents to point out primary source of a data point - while still respecting you to show you the source, if you'd like to have a look yourself. The result is that you feel cared for, guided through a curated experience.
+[Nieman](https://niemanstoryboard.org/storyboard-category/annotation-tuesday/) uses them as a little chat bubble that the user can click on to view something… a meta-conversation outside the main content
+### Tools
+* [DocumentCloud](https://www.documentcloud.org/)
+### Examples:
+* [Secret IRS Files Reveal How Much the Ultrawealthy Gained by Shaping Trump's “Big, Beautiful Tax Cut”](https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut)

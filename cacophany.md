@@ -1,0 +1,1 @@
+Nobody likes too much information at once. But sometimes the magnitude is the point.

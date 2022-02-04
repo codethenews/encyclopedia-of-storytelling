@@ -1,0 +1,1 @@
+A story form that gives the reader the feeling of familiarity. Their purpose is to engage users by replicating human conversation - sometimes to [eerie effect](https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/).

@@ -1,0 +1,4 @@
+Color shows harmony. The goal should always be to use color to simplify the information, but it's easy to have a little too much fun with the color palette and overcomplicate the message. A rainbow palette is visually interesting, but usually makes the data more difficult to understand. Instead, choose a palette that helps viewers read your visualization at a glance—and always use darker or more vivid colors as the fill color. A solid foundation to use when getting started is to start with some widely accepted basic color schemes: _
+  * _Complementary Colors: opposite one another on the color wheel. _
+  * _Split Complementary: One color and the two colors on either side of its complementary color wheel. _
+  * _Triad: Three colors from equidistant points on the color wheel._

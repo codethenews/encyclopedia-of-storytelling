@@ -1,0 +1,1 @@
+In [data visualization] and especially [charts] and graphs, distribution is a mathematical function that can be used to calculate the probability for any individual observation from the sample space.
