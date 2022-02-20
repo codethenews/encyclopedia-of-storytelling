@@ -1,2 +1,3 @@
-Markdown allows you to quickly turn written text into HTML using simplified symbols in place of tags. For example…
-* Created by[John Gruber](https://daringfireball.net/contact/)
+Markdown allows you to quickly turn written text into formatted hypertext, using simplified symbols in the place of [HTML](./html) tags.
+
+- [Markdown Reference Guide](https://www.markdownguide.org/basic-syntax/)
