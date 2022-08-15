@@ -1,0 +1,1 @@
+"The command line" - also known as a terminal – is an interface for giving the computer commands directly - as opposed to using a _graphical_ interface, or "GUI".
