@@ -11,7 +11,7 @@ So how should motion be used most effectively?
 ...
 
 
->There are moments in the films of French filmmaker Jean-Luc Godard, father of what came to be known as the French New Wave in cinema, where the camera moves in an unmotivated way, almost like a distracted viewer who wants to get away and focus on a window or something. This de-emphasizes the subjects, and serves as a meta-commentary on cinema: implying on the relative unimportance of the things we point our cameras, and therefore attention at. 
+> There are moments in the films of French filmmaker Jean-Luc Godard, father of what came to be known as the French New Wave in cinema, where the camera moves in an unmotivated way, almost like a distracted viewer who wants to get away and focus on a window or something. This de-emphasizes the subjects, and serves as a meta-commentary on cinema: implying on the relative unimportance of the things we point our cameras, and therefore attention at. 
 
 > Can we imagine examples where this has been or could be applied in journalism?
 
