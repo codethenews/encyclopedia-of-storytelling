@@ -1,0 +1,1 @@
+Motion capture tracks the movement of bodies 
